@@ -1,4 +1,4 @@
-import save_all_books
+from save_all_books import save_all_books
 
 def update_book(all_books):
     isbn = int(input("Enter ISBN of the book to update: "))
@@ -10,7 +10,7 @@ def update_book(all_books):
             book["year"] = input("New year (leave blank to keep): ") or book["year"]
             book["price"] = input("New price (leave blank to keep): ") or book["price"]
             book["quantity"] = input("New quantity (leave blank to keep): ") or book["quantity"]
-            save_all_books.save_all_books(all_books)
+            save_all_books(all_books)
             print("Book updated successfully!")
             return all_books
     print("Book not found!")

@@ -1,11 +1,10 @@
-import add_books
-import view_all_books
-import update_book
-import remove_book
-import lend_book
-import return_book
+from add_books import add_books
+from view_all_books import view_all_books
+from update_book import update_book
+from remove_book import remove_book
+from lend_book import lend_book
+from return_book import return_book
 
-# Load books from file if any
 try:
     with open("all_books.csv", "r") as fp:
         all_books = []
@@ -39,16 +38,16 @@ while True:
         print("Thanks for using Library Management System!")
         break
     elif menu == "1":
-        all_books = add_books.add_books(all_books)
+        all_books = add_books(all_books)
     elif menu == "2":
-        view_all_books.view_all_books(all_books)
+        view_all_books(all_books)
     elif menu == "3":
-        all_books = update_book.update_book(all_books)
+        all_books = update_book(all_books)
     elif menu == "4":
-        all_books = remove_book.remove_book(all_books)
+        all_books = remove_book(all_books)
     elif menu == "5":
-        all_books = lend_book.lend_book(all_books)
+        all_books = lend_book(all_books)
     elif menu == "6":
-        all_books = return_book.return_book(all_books)
+        all_books = return_book(all_books)
     else:
         print("Choose a valid number")

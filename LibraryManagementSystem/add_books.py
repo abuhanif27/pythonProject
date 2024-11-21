@@ -1,4 +1,4 @@
-import save_all_books
+from save_all_books import save_all_books
 
 def add_books(all_books):
     title = input("Enter Book Title: ")
@@ -18,7 +18,7 @@ def add_books(all_books):
     }
 
     all_books.append(book)
-    save_all_books.save_all_books(all_books)
+    save_all_books(all_books)
 
     print("Book added successfully!")
     return all_books
