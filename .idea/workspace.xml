@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a10ccf8-c03f-443b-84c2-95fbf913664b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/multiplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/add_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/lend_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/library_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/remove_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/return_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/save_all_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/update_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagementSystem/view_all_books.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +44,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.calculator.executor": "Run",
+    "Python.food_manager.executor": "Run",
+    "Python.lend_book.executor": "Run",
+    "Python.library_management.executor": "Run",
     "Python.namta.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,6 +79,9 @@
       <workItem from="1731058282164" duration="2254000" />
       <workItem from="1731338935676" duration="46000" />
       <workItem from="1731575434085" duration="1191000" />
+      <workItem from="1731680367202" duration="1291000" />
+      <workItem from="1731946756500" duration="99000" />
+      <workItem from="1732221078504" duration="940000" />
     </task>
     <servers />
   </component>
@@ -77,6 +89,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$library_management.coverage" NAME="library_management Coverage Results" MODIFIED="1732221788128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$lend_book.coverage" NAME="lend_book Coverage Results" MODIFIED="1732221777223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$food_manager.coverage" NAME="food_manager Coverage Results" MODIFIED="1731680957746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$namta.coverage" NAME="namta Coverage Results" MODIFIED="1731060320924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1730997355404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1731575527993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
