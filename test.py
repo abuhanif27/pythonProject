@@ -1,7 +1,4 @@
-def factorial(n):
-    result = 1
-    for i in range(1, n + 1):
-        result *= i
-    print(result)
+from contactManagementSystem.Contact import Contact
 
-factorial(5)
+contact = Contact('Naruto', 'naruto@email.com', '012343242', 'konoha')
+print(contact)
