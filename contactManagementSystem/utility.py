@@ -47,3 +47,9 @@ def delete_utility(delete_by, delete_value, contacts):
         return f"Contact {delete_by.capitalize()} Not Found"
 
     return remaining_contacts
+
+
+def is_valid_email(email):
+    if "@" in email and "." in email:
+        return True
+    return False
