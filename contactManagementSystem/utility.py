@@ -5,6 +5,7 @@ def search_utility(search_by, search_term, contacts):
     search_results = []
     for c in contacts:
         name, email, phone, address = c.split(",")
+        address = address.strip() # is is last that's why it's need cleaned up
         contact = Contact(name, email, phone, address)
 
         search_attribute = {
@@ -34,7 +35,7 @@ def delete_utility(delete_by, delete_value, contacts):
             "name": name.lower(),
             "email": email.lower(),
             "phone": phone.lower(),
-            "address": address.lower(),
+            "address": address.strip().lower(),
         }
 
         if delete_attribute[delete_by] != delete_value:

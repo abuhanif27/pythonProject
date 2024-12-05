@@ -6,7 +6,7 @@ from view_contact import view_contact
 run = True
 while run:
     print("~" * 109)
-    print("            CONTACT MANAGEMENT APP            ".center(109, "~"))
+    print("            CONTACT MANAGEMENT SYSTEM            ".center(109, "~"))
     print("~" * 109)
     print("\nChoose an Option:")
     print("1. Add Contact")

@@ -9,3 +9,5 @@
 7. create utility functions to remove redundancy
 8. menu system
 9. exit from project option
+10. review code for more reactor
+11. review project requirement again

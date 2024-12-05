@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7a10ccf8-c03f-443b-84c2-95fbf913664b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactManagementSystem/add_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/add_contact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactManagementSystem/contact_mangement.py" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/contact_mangement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactManagementSystem/contacts.csv" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/contacts.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactManagementSystem/projectTodo.md" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/projectTodo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contactManagementSystem/utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/utility.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactManagementSystem/view_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/view_contact.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
     "Python.search_contact.executor": "Run",
     "Python.static_banking_management.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.utility.executor": "Run",
     "Python.view_contact.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -98,24 +102,37 @@
       <workItem from="1733150757763" duration="6815000" />
       <workItem from="1733164758317" duration="8280000" />
       <workItem from="1733253769733" duration="3880000" />
-      <workItem from="1733322818240" duration="17143000" />
+      <workItem from="1733322818240" duration="18266000" />
+      <workItem from="1733403616156" duration="3893000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$add_contact.coverage" NAME="add_contact Coverage Results" MODIFIED="1733327414902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
-    <SUITE FILE_PATH="coverage/pythonProject$library_management.coverage" NAME="library_management Coverage Results" MODIFIED="1732226394018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$lend_book.coverage" NAME="lend_book Coverage Results" MODIFIED="1732221777223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
-    <SUITE FILE_PATH="coverage/pythonProject$contact_mangement.coverage" NAME="contact_mangement Coverage Results" MODIFIED="1733338603548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$food_manager.coverage" NAME="food_manager Coverage Results" MODIFIED="1731680957746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$static_banking_management.coverage" NAME="static_banking_management Coverage Results" MODIFIED="1732816475777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StaticBankingManagement" />
     <SUITE FILE_PATH="coverage/pythonProject$search_contact.coverage" NAME="search_contact Coverage Results" MODIFIED="1733335806587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$namta.coverage" NAME="namta Coverage Results" MODIFIED="1731060320924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$view_contact.coverage" NAME="view_contact Coverage Results" MODIFIED="1733334583945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1730997355404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$add_contact.coverage" NAME="add_contact Coverage Results" MODIFIED="1733327414902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$library_management.coverage" NAME="library_management Coverage Results" MODIFIED="1732226394018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$contact_mangement.coverage" NAME="contact_mangement Coverage Results" MODIFIED="1733406827705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$static_banking_management.coverage" NAME="static_banking_management Coverage Results" MODIFIED="1732816475777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StaticBankingManagement" />
+    <SUITE FILE_PATH="coverage/pythonProject$utility.coverage" NAME="utility Coverage Results" MODIFIED="1733405982096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$view_contact.coverage" NAME="view_contact Coverage Results" MODIFIED="1733334583945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1733157528123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
   </component>
 </project>
