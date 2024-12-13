@@ -7,7 +7,6 @@
     <list default="true" id="7a10ccf8-c03f-443b-84c2-95fbf913664b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/all_books.json" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/all_books.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/view_all_books.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/view_all_books.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +105,7 @@
       <workItem from="1733253769733" duration="3880000" />
       <workItem from="1733322818240" duration="18266000" />
       <workItem from="1733403616156" duration="7088000" />
-      <workItem from="1734099615235" duration="4691000" />
+      <workItem from="1734099615235" duration="5394000" />
     </task>
     <servers />
   </component>
@@ -133,7 +132,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$namta.coverage" NAME="namta Coverage Results" MODIFIED="1731060320924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1730997355404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$add_contact.coverage" NAME="add_contact Coverage Results" MODIFIED="1733327414902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
-    <SUITE FILE_PATH="coverage/pythonProject$books.coverage" NAME="books Coverage Results" MODIFIED="1734104190351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedLibraryManagementSystemCLI" />
+    <SUITE FILE_PATH="coverage/pythonProject$books.coverage" NAME="books Coverage Results" MODIFIED="1734104651176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedLibraryManagementSystemCLI" />
     <SUITE FILE_PATH="coverage/pythonProject$library_management.coverage" NAME="library_management Coverage Results" MODIFIED="1732226394018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$contact_mangement.coverage" NAME="contact_mangement Coverage Results" MODIFIED="1733406827705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$static_banking_management.coverage" NAME="static_banking_management Coverage Results" MODIFIED="1732816475777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StaticBankingManagement" />
