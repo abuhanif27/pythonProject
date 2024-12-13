@@ -63,6 +63,12 @@
         "quantity": 70,
         "bookAddedAt": "13-12-2024 21:15:46",
         "bookLastUpdatedAt": "",
-        "lent_to": []
+        "lent_to": [
+            {
+                "name": "Mehedi",
+                "phone": "0123",
+                "due_date": "27-12-2024"
+            }
+        ]
     }
 ]
