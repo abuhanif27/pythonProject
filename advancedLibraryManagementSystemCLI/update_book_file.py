@@ -1,4 +1,3 @@
-### Module: update_books.py
 from save_all_books import save_all_books
 from datetime import datetime
 
