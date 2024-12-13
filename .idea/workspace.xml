@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a10ccf8-c03f-443b-84c2-95fbf913664b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fibonacci/fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/restore_books_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/restore_books_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,32 +34,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.add_contact.executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.contact_mangement.executor": "Run",
-    "Python.fibonacci.executor": "Debug",
-    "Python.food_manager.executor": "Run",
-    "Python.lend_book.executor": "Run",
-    "Python.library_management.executor": "Run",
-    "Python.namta.executor": "Run",
-    "Python.search_contact.executor": "Run",
-    "Python.static_banking_management.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.utility.executor": "Run",
-    "Python.view_contact.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/hn/Desktop/PYTHON/pythonProject/contactManagementSystem",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.add_contact.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contact_mangement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.food_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lend_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.namta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search_contact.executor&quot;: &quot;Run&quot;,
+    &quot;Python.static_banking_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.view_contact.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hn/Desktop/PYTHON/pythonProject/contactManagementSystem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/contactManagementSystem" />
@@ -101,6 +101,7 @@
       <workItem from="1733253769733" duration="3880000" />
       <workItem from="1733322818240" duration="18266000" />
       <workItem from="1733403616156" duration="7088000" />
+      <workItem from="1734099615235" duration="973000" />
     </task>
     <servers />
   </component>
