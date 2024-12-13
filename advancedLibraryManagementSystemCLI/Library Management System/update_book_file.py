@@ -1,27 +1,21 @@
-import save_all_books
+### Module: update_books.py
+from save_all_books import save_all_books
 from datetime import datetime
 
+
 def update_books(all_books):
-    search_book = input("Enter Book Title to Update: ")
+    search_term = input("Enter Book Title or ISBN to Update: ")
     for book in all_books:
-        if book["title"] == search_book:
-            title = input("Enter Book Title: ")
-            author = input("Enter Author Name: ")
-            year = int(input("Enter Publishing Year Number: "))
-            price = int(input("Enter Book Price: "))
-            quantity = int(input("Enter Quantity Number: "))
+        if book["title"] == search_term or str(book["isbn"]) == search_term:
+            book["title"] = input("Enter New Title: ") or book["title"]
+            book["author"] = input("Enter New Author: ") or book["author"]
+            book["year"] = int(input("Enter New Publishing Year: ")) or book["year"]
+            book["price"] = int(input("Enter New Price: ")) or book["price"]
+            book["quantity"] = int(input("Enter New Quantity: ")) or book["quantity"]
+            book["bookLastUpdatedAt"] = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
 
-            book_last_updated_at = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
+            save_all_books(all_books)
+            print("Book Updated Successfully!")
+            return
 
-            book["title"] = title
-            book["author"] = author
-            book["year"] = year
-            book["price"] = price
-            book["quantity"] = quantity
-            book["bookLastUpdatedAt"] = book_last_updated_at
-
-            save_all_books.save_all_books(all_books)
-            print("Book Updated Successfully")
-            return all_books
-
-    print("Book Not Found")
+    print("Book Not Found.")
