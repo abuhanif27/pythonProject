@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a10ccf8-c03f-443b-84c2-95fbf913664b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/books.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/add_books.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/add_books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/all_books.csv" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/all_books.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/all_books.json" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/all_books.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/book.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/delete_book_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/delete_book_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/lend_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/lend_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/restore_books_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/restore_books_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/return_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/return_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/save_all_books.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/save_all_books.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/update_book_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/update_book_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/Library Management System/view_all_books.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/view_all_books.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/all_books.json" beforeDir="false" afterPath="$PROJECT_DIR$/advancedLibraryManagementSystemCLI/all_books.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,32 +34,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.add_contact.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.contact_mangement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.food_manager.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lend_book.executor&quot;: &quot;Run&quot;,
-    &quot;Python.library_management.executor&quot;: &quot;Run&quot;,
-    &quot;Python.namta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.search_contact.executor&quot;: &quot;Run&quot;,
-    &quot;Python.static_banking_management.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.utility.executor&quot;: &quot;Run&quot;,
-    &quot;Python.view_contact.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/hn/Desktop/PYTHON/pythonProject/contactManagementSystem&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.add_books.executor": "Run",
+    "Python.add_contact.executor": "Run",
+    "Python.books.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.contact_mangement.executor": "Run",
+    "Python.fibonacci.executor": "Debug",
+    "Python.food_manager.executor": "Run",
+    "Python.lend_book.executor": "Run",
+    "Python.library_management.executor": "Run",
+    "Python.namta.executor": "Run",
+    "Python.search_contact.executor": "Run",
+    "Python.static_banking_management.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.utility.executor": "Run",
+    "Python.view_contact.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/hn/Desktop/PYTHON/pythonProject/contactManagementSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/contactManagementSystem" />
@@ -114,7 +104,7 @@
       <workItem from="1733253769733" duration="3880000" />
       <workItem from="1733322818240" duration="18266000" />
       <workItem from="1733403616156" duration="7088000" />
-      <workItem from="1734099615235" duration="1858000" />
+      <workItem from="1734099615235" duration="2726000" />
     </task>
     <servers />
   </component>
@@ -134,16 +124,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1733416644700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fibonacci" />
-    <SUITE FILE_PATH="coverage/pythonProject$lend_book.coverage" NAME="lend_book Coverage Results" MODIFIED="1732221777223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$lend_book.coverage" NAME="lend_book Coverage Results" MODIFIED="1734102092699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedLibraryManagementSystemCLI" />
     <SUITE FILE_PATH="coverage/pythonProject$food_manager.coverage" NAME="food_manager Coverage Results" MODIFIED="1731680957746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$search_contact.coverage" NAME="search_contact Coverage Results" MODIFIED="1733335806587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$namta.coverage" NAME="namta Coverage Results" MODIFIED="1731060320924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1730997355404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$add_contact.coverage" NAME="add_contact Coverage Results" MODIFIED="1733327414902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$books.coverage" NAME="books Coverage Results" MODIFIED="1734102237795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedLibraryManagementSystemCLI" />
     <SUITE FILE_PATH="coverage/pythonProject$library_management.coverage" NAME="library_management Coverage Results" MODIFIED="1732226394018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$contact_mangement.coverage" NAME="contact_mangement Coverage Results" MODIFIED="1733406827705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$static_banking_management.coverage" NAME="static_banking_management Coverage Results" MODIFIED="1732816475777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StaticBankingManagement" />
     <SUITE FILE_PATH="coverage/pythonProject$utility.coverage" NAME="utility Coverage Results" MODIFIED="1733405982096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
+    <SUITE FILE_PATH="coverage/pythonProject$add_books.coverage" NAME="add_books Coverage Results" MODIFIED="1734102235712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedLibraryManagementSystemCLI" />
     <SUITE FILE_PATH="coverage/pythonProject$view_contact.coverage" NAME="view_contact Coverage Results" MODIFIED="1733334583945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1733157528123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
   </component>
