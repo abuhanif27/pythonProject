@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a10ccf8-c03f-443b-84c2-95fbf913664b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Fibonacci/fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactManagementSystem/contact_mangement.py" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/contact_mangement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactManagementSystem/contacts.csv" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/contacts.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactManagementSystem/projectTodo.md" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/projectTodo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactManagementSystem/utility.py" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/utility.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactManagementSystem/view_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/contactManagementSystem/view_contact.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,7 @@
     "Python.add_contact.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.contact_mangement.executor": "Run",
+    "Python.fibonacci.executor": "Debug",
     "Python.food_manager.executor": "Run",
     "Python.lend_book.executor": "Run",
     "Python.library_management.executor": "Run",
@@ -103,7 +100,7 @@
       <workItem from="1733164758317" duration="8280000" />
       <workItem from="1733253769733" duration="3880000" />
       <workItem from="1733322818240" duration="18266000" />
-      <workItem from="1733403616156" duration="3893000" />
+      <workItem from="1733403616156" duration="7088000" />
     </task>
     <servers />
   </component>
@@ -122,6 +119,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1733416644700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fibonacci" />
     <SUITE FILE_PATH="coverage/pythonProject$lend_book.coverage" NAME="lend_book Coverage Results" MODIFIED="1732221777223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LibraryManagementSystem" />
     <SUITE FILE_PATH="coverage/pythonProject$food_manager.coverage" NAME="food_manager Coverage Results" MODIFIED="1731680957746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$search_contact.coverage" NAME="search_contact Coverage Results" MODIFIED="1733335806587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/contactManagementSystem" />
