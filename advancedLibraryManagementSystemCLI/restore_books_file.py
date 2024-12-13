@@ -6,4 +6,3 @@ def restore_all_books():
             return json.load(fp)
     except FileNotFoundError:
         return []
-
