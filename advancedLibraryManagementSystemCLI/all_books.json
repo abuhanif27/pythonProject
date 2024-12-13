@@ -1,4 +1,68 @@
 [
-
-
+    {
+        "title": "book 1",
+        "author": "Book1New",
+        "isbn": 73213,
+        "year": 2001,
+        "price": 300,
+        "quantity": 5,
+        "bookAddedAt": "13-12-2024 21:09:00",
+        "bookLastUpdatedAt": "13-12-2024 21:23:37",
+        "lent_to": []
+    },
+    {
+        "title": "book 2",
+        "author": "author 2",
+        "isbn": 20828,
+        "year": 2002,
+        "price": 202,
+        "quantity": 0,
+        "bookAddedAt": "13-12-2024 21:10:17",
+        "bookLastUpdatedAt": "",
+        "lent_to": []
+    },
+    {
+        "title": "book 4",
+        "author": "author 4",
+        "isbn": 22097,
+        "year": 2004,
+        "price": 204,
+        "quantity": 40,
+        "bookAddedAt": "13-12-2024 21:13:44",
+        "bookLastUpdatedAt": "",
+        "lent_to": []
+    },
+    {
+        "title": "author 5",
+        "author": "book 5",
+        "isbn": 21055,
+        "year": 2005,
+        "price": 205,
+        "quantity": 50,
+        "bookAddedAt": "13-12-2024 21:14:27",
+        "bookLastUpdatedAt": "",
+        "lent_to": []
+    },
+    {
+        "title": "book 6",
+        "author": "author 6",
+        "isbn": 57500,
+        "year": 2006,
+        "price": 206,
+        "quantity": 0,
+        "bookAddedAt": "13-12-2024 21:15:10",
+        "bookLastUpdatedAt": "13-12-2024 21:36:53",
+        "lent_to": []
+    },
+    {
+        "title": "book 7",
+        "author": "author 7",
+        "isbn": 33622,
+        "year": 2007,
+        "price": 207,
+        "quantity": 70,
+        "bookAddedAt": "13-12-2024 21:15:46",
+        "bookLastUpdatedAt": "",
+        "lent_to": []
+    }
 ]
